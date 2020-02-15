@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-02-15 17:06\n"
+"PO-Revision-Date: 2020-02-15 17:16\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -70,35 +70,35 @@ msgstr "**Marquer les disponibilités.** Pour chaque joute, vous devez marquer l
 
 #: ../../use/running-a-tournament.rst:28
 msgid "To do this, click the round in the menu, then click **Check-Ins**. Here you can then go to the availability pages for venue, teams, and adjudicators, or check in everything at once. When you've set everything appropriately use the **Generate Draw** button in the top right to advance."
-msgstr ""
+msgstr "Pour faire ceci, cliquer la joute dans le menu, puis **Disponibilités**. Ici vous pouvez rentrer les pages de disponibilités pour les salles, équipes et juges, ou marquer tout le monde comme étant disponible à la fois. Quand vous avez tout défini, utilisez le bouton **Générer le tirage** en haut à droite pour avancer."
 
 #: ../../use/running-a-tournament.rst:34
 msgid "You can set availabilities in advance of the current round — ie if you know the venue/adjudicator schedules their availabilities can be set ahead of time."
-msgstr ""
+msgstr "Vous pouvez définir les disponibilités en avance de la joute actuelle - *i.e.* si vous savez les horaires des salles/juges, leurs disponibilités peuvent être marqués en avance."
 
 #: ../../use/running-a-tournament.rst:37
 msgid "Generating the draw"
-msgstr ""
+msgstr "Générer le tirage"
 
 #: ../../use/running-a-tournament.rst:39
 msgid "**Confirm the draft draw**. After advancing from availability section you will first be shown a draft draw that details how the draw was formulated, pointing out pull-ups and conflict swaps and the like."
-msgstr ""
+msgstr "**Confirmer le tirage brouillon**. Après avoir avancé de la section des disponibilités, vous serez montré un tirage brouillon avec des détails de comment le tirage a été formulé, montrant les promotions, modifications suite aux conflits ainsi qu'autres notes."
 
 #: ../../use/running-a-tournament.rst:43
 msgid "The draft draw is for you to double-check. While there are some basic tests on the draw algorithm, it never hurts to sanity-check it again."
-msgstr ""
+msgstr "Le tirage brouillon est pour vous à vérifier. Tandis qu'il y a des tests de base dans l'algorithme de jumelage, ça ne fait pas de mal de le re-vérifier a ce que tout aie du sens."
 
 #: ../../use/running-a-tournament.rst:45
 msgid "If you *do* find something wrong with a draft draw, you can edit the match-ups, but please also let us know what the problem was! You can find our contact details in the :ref:`authors` section."
-msgstr ""
+msgstr "Si vous trouvez quelque chose de mal avec un tirage brouillon, vous pouvez modifier les jumelages, mais dites-nous c'était quoi le problème ! Nos détails de contact sont dans la section :ref:`authors`."
 
 #: ../../use/running-a-tournament.rst:47
 msgid "Once on the confirmed draw page you can click **Edit Adjudicators**."
-msgstr ""
+msgstr "Une fois sur la page du tirage confirmée, vous pouvez cliquer sur **Modifier les juges**."
 
 #: ../../use/running-a-tournament.rst:51
 msgid "**Allocate the adjudicators**. Changes here will auto-save; feel free to return to the **Draw** when needed. See :ref:`adjudicator allocation <adjudicator-allocation>` for more details about the allocation process."
-msgstr ""
+msgstr "**Repartir les juges**. Les changements ici vont s'auto-sauvegarder ; soyez à l'aise de retourner au **Tirage** quand vous avez besoin. Voir la :ref:`repartition des juges <adjudicator-allocation>` pour plus de détails à propos du processus de repartition."
 
 #: ../../use/running-a-tournament.rst:55
 msgid "If you are using venue constraints the **Draw** page may prompt you to Auto Allocate the venues used to satisfy those constraints; see :ref:`venue-constraints <venue-constraints>` for more details. Regardless of whether you are using venue constraints or not you can change the Venues per-debate in the **Edit Venues** area."
