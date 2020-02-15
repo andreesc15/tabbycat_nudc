@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-01-02 01:50\n"
+"PO-Revision-Date: 2020-02-15 17:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #: ../../use/running-a-tournament.rst:5
 msgid "Running a Tournament"
-msgstr ""
+msgstr "Gérer un tournoi"
 
 #: ../../use/running-a-tournament.rst:7
 msgid "Once you've finished the steps in :ref:`starting-a-tournament`, you're ready to go! This page outlines what you would do for each round during the tournament. After the tournament, proceed to :ref:`finishing-a-tournament`."
-msgstr ""
+msgstr "Quand vous avez terminé les étapes dans :ref:`starting-a-tournament`, vous êtes prêt à partir ! Cette page décrit ce que vous feriez pour chaque joute du tournoi. Après le tournoi, allez à :ref:`finishing-a-tournament`."
 
 #: ../../use/running-a-tournament.rst:9
 msgid "This is all done from the admin area (*i.e.*, by the tab director or adjudication core member). In the admin area, tournament-wide pages (feedback, standings, and break) are at the top of the left-hand menu, while round-specific pages (availability, draw, display, motions, and results) are in dropdown's organised by each round's abbreviation."
