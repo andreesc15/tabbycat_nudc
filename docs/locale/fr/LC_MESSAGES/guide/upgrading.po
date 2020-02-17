@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-01-02 01:51\n"
+"PO-Revision-Date: 2020-02-17 03:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -18,19 +18,19 @@ msgstr ""
 
 #: ../../guide/upgrading.rst:5
 msgid "Upgrading Tabbycat"
-msgstr ""
+msgstr "Mettre Tabbycat à niveau"
 
 #: ../../guide/upgrading.rst:7
 msgid "Generally only want to upgrade copies of tab sites that are used on an ongoing basis for multiple tournaments, or if there is a bugfix release between when you setup your site and when the tournament is running."
-msgstr ""
+msgstr "Généralement vous voudriez juste mettre à jour des sites qui sont utilisés continuellement pour plusieurs tournois ou s'il y a une version pour corriger des bogues publiée entre le temps que vous avez créé l'instance et le tournoi est en cours."
 
 #: ../../guide/upgrading.rst:11
 msgid "Going from any version of Tabbycat 1 to any version of Tabbycat 2 won't work with the below instructions — check out the CHANGELOG for the 2.0 version for details of how to perform this upgrade."
-msgstr ""
+msgstr "Aller de n'importe quel version de Tabbycat 1 à n'importe quel version de Tabbycat 2 ne fonctionnera pas avec les instructions suivantes. Consultez le journal des modifications pour des détails de comment faire la mise à jour."
 
 #: ../../guide/upgrading.rst:14
 msgid "Upgrading a Local Copy"
-msgstr ""
+msgstr "Mise à jour d'une copie locale"
 
 #: ../../guide/upgrading.rst:16
 msgid "Assuming you haven't made any changes to the Tabbycat code, upgrading a locally installed copy should just be a matter of `downloading the latest source code <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_ and replacing the existing files with the new ones. If you used git to download these files initially you can just pull down the latest copy of the master branch to do this."
