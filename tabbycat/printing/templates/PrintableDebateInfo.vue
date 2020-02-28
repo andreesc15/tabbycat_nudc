@@ -122,11 +122,11 @@
     <div class="db-bordered d-flex db-flex-item-2 text-center small">
       <div class="d-flex db-flex-item-1 flex-column p-2">
         <div class="flex-fill db-fill-in mb-1 pt-3"></div>
-        <div v-text="gettext('tab entry')"></div>
+        <div>Judge Signature</div>
       </div>
       <div class="d-flex db-flex-item-1 flex-column p-2">
         <div class="flex-fill db-fill-in mb-1 pt-4"></div>
-        <div v-text="gettext('tab check')"></div>
+        <div>Tab Signature</div>
       </div>
     </div>
 
