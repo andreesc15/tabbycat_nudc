@@ -118,6 +118,7 @@
       </div>
     </template>
 
+<!-- EDITED TO COMPLY WITH NUDC REQUIREMENTS -->
     <div class="db-item-gutter"></div>
     <div class="db-bordered d-flex db-flex-item-2 text-center small">
       <div class="d-flex db-flex-item-1 flex-column p-2">
@@ -126,7 +127,7 @@
       </div>
       <div class="d-flex db-flex-item-1 flex-column p-2">
         <div class="flex-fill db-fill-in mb-1 pt-4"></div>
-        <div>Tab Signature</div>
+        <div>Tab Team's Signature</div>
       </div>
     </div>
 
